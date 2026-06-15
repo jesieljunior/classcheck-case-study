@@ -265,11 +265,11 @@ classcheck/
 *Visão geral com taxa de presença, alunos em risco e chamadas do dia — adaptada por perfil de usuário*
 
 ### Tela de Chamada
-![Chamada](assests/CHAMADA-ETAPA-2.png)
+![Chamada](assets/CHAMADA-ETAPA-2.png)
 *Interface de registro de presença diária com lista de alunos da turma*
 
 ### Gestão de Alunos
-![Alunos](assests/ALUNOS-FILTROS-CADASTROS.png)
+![Alunos](assets/ALUNOS-FILTROS-CADASTROS.png)
 *CRUD completo de alunos com histórico de frequência e upload em massa via CSV*
 
 ### Relatórios
