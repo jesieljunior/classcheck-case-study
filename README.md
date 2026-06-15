@@ -261,23 +261,23 @@ classcheck/
 > *Adicionar capturas de tela após configuração do ambiente de produção*
 
 ### Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](assets/DASHBOARD-ADMINISTRACAO.png)
 *Visão geral com taxa de presença, alunos em risco e chamadas do dia — adaptada por perfil de usuário*
 
 ### Tela de Chamada
-![Chamada](docs/screenshots/chamada.png)
+![Chamada](assests/CHAMADA-ETAPA-2.png)
 *Interface de registro de presença diária com lista de alunos da turma*
 
 ### Gestão de Alunos
-![Alunos](docs/screenshots/alunos.png)
+![Alunos](assests/ALUNOS-FILTROS-CADASTROS.png)
 *CRUD completo de alunos com histórico de frequência e upload em massa via CSV*
 
 ### Relatórios
-![Relatórios](docs/screenshots/relatorios.png)
+![Relatórios](assets/ESTATISTICA-ADM.png)
 *Exportação de relatórios de frequência por turma, unidade e período*
 
 ### Gestão de Usuários
-![Usuários](docs/screenshots/usuarios.png)
+![Usuários](assets/CADASTRO-USUARIOS-TIPOS.png)
 *Cadastro de usuários com perfis diferenciados e aprovação de primeiro acesso*
 
 ---
